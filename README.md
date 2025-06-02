@@ -1,19 +1,19 @@
-# 🛠️ Sahayak Seva - Smart Government Scheme Recommendation Portal
+#  Sahayak Seva - Smart Government Scheme Recommendation Portal
 
 **Sahayak Seva** is an intelligent web-based platform that recommends relevant government welfare schemes to users based on their demographic and financial data. Built during a hackathon, the portal simplifies scheme discovery and eligibility checks, ensuring faster and more personalized access to benefits.
 
-## 🚀 Features
+##  Features
 
-- 🔍 **Smart Recommender** – Matches users to suitable central/state schemes using 10+ parameters (age, income, occupation, etc.) with 85%+ accuracy.
-- 🧾 **Structured Scheme Database** – JSON-powered rules, eligibility criteria, document checklists, and application workflows.
-- 🔐 **Secure Auth & Realtime Storage** – User authentication and data handling powered by Firebase.
-- 💬 **AI Chatbot** – Interactive assistant to answer scheme-related queries and guide users.
-- ⚡ **Fast & Responsive UI** – Built with Tailwind CSS and React for seamless experience.
+- **Smart Recommender** – Matches users to suitable central/state schemes using 10+ parameters (age, income, occupation, etc.) with 85%+ accuracy.
+- **Structured Scheme Database** – JSON-powered rules, eligibility criteria, document checklists, and application workflows.
+- **Secure Auth & Realtime Storage** – User authentication and data handling powered by Firebase.
+- **AI Chatbot** – Interactive assistant to answer scheme-related queries and guide users.
+- **Fast & Responsive UI** – Built with Tailwind CSS and React for seamless experience.
 
 ## Motivation
 Despite numerous government initiatives aimed at uplifting underprivileged communities in India, many individuals remain unaware of the benefits available to them. Factors such as illiteracy, lack of awareness, and bureaucratic hurdles contribute to this disconnect. Sahayak Seva addresses these challenges by providing an intuitive platform that educates users about their entitlements and assists them in accessing these services.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Frontend**: React, TypeScript, Tailwind CSS  
 - **Backend/Database**: Firebase (Authentication & Firestore)  
